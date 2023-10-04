@@ -6,7 +6,7 @@ Divide
 Clear
 Equals
 
-
+hosted URL : https://calculator-app-3acee.web.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App].
